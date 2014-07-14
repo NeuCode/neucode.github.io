@@ -172,3 +172,8 @@ p.copyright {
   font-size: 20em;
   text-align: center;
 }
+.btn {
+  border: #fff;
+  background: transparent;
+  color: #fff;
+}
