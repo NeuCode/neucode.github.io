@@ -173,7 +173,7 @@ p.copyright {
   text-align: center;
 }
 .btn-default {
-  border: #fff;
+  border-color: #fff;
   background: transparent;
   color: #fff;
 }
